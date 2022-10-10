@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+    color: white;
+    background-color: red;
+  }
+  .images {
+    display: block;
+    margin: 1rem auto;
+    width: 300px;
+  }
+
+  /* clasname ler aynı olduğu zaman birbirini eziyorlar bunu engellemek i.in card.module.css yaparız
+  ancak bunları react dosyası gibi importlarız */
